@@ -6,7 +6,7 @@ public class Array {
         //declaring array;
         int[] myArr = new int[5];
 
-        //updating the element at index 2;   // note index 2 means 3rd element, because array index starts from 1;
+        //updating the element at index 2;   // note index 2 means 3rd element, because array index starts from 0;
         myArr[2] = 243;
 
 
